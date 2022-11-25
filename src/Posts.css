@@ -1,0 +1,7 @@
+tr {
+    border-bottom: 1px solid black;
+}
+td {
+    border-left: 1px solid black;
+    padding: 2px;
+}
